@@ -512,3 +512,9 @@ C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Text.Encodings.Web.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Text.Json.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Threading.Tasks.Extensions.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\linksrc\Flurl.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\linksrc\Flurl.Http.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\linksrc\System.Text.Encoding.CodePages.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\Flurl.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\Flurl.Http.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Text.Encoding.CodePages.dll

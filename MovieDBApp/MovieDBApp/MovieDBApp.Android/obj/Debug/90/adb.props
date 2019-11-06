@@ -1,2 +1,2 @@
-AdbTarget=
+AdbTarget=-s HAAZB601X770WJ6
 AdbOptions=

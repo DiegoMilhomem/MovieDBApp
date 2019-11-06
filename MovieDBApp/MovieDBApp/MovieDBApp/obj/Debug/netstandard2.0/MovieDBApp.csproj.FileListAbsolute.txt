@@ -8,3 +8,5 @@ C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.AssemblyInfo.cs
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.pdb
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\Views\MasterPage.xaml.g.cs

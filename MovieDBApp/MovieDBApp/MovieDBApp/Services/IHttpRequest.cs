@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace MovieDBApp.Services
 {
-    interface IHttpRequest
+    public interface IHttpRequest
     {
         Task<TResult> GetAsync<TResult>(string uri);
     }

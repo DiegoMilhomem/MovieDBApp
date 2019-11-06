@@ -1,4 +1,6 @@
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\MovieDBApp.Android.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\Flurl.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\Flurl.Http.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\Java.Interop.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
@@ -73,6 +75,7 @@ C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Text.Encoding.CodePages.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\Mono.Security.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Memory.dll
 C:\DEV\XAMARIN\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
